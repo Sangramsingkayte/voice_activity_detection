@@ -55,5 +55,4 @@ employ via the ``--n_jobs`` flag:
 
 References
 ----------
-- https://github.com/wiseman/py-webrtcvad.git
 - https://webrtc.org/
